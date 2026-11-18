@@ -15,7 +15,7 @@ GitHub のモバイル Web では、リポジトリページの Star ボタン�
 - **iPhone / iPad (Safari)**: [Userscripts](https://github.com/quoid/userscripts) アプリを入れ、このスクリプトを追加
 - **デスクトップブラウザ**: Tampermonkey / Violentmonkey など
 
-スクリプト本体: [`github-add-to-list.user.js`](./github-add-to-list.user.js)
+スクリプト本体: [`restore-github-starlist.user.js`](./restore-github-starlist.user.js)
 
 ## 使い方
 
